@@ -1,2 +1,5 @@
-Git is a version control system.
-Git is free software.
+Git is a distributed version control system.
+Git is a free software.
+
+git add <file> - to submit file to Git repository
+git commit -m <message> - leave short commit for this change (easy to find and remember what have done)
