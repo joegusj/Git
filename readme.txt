@@ -9,6 +9,7 @@ git log (--pretty=oneline) : check commit history
 git reset --hard HEAD^ : rollback to the last ver
 git reflog : show every command
 git restore <file> : discard changes
+git restore --staged <file> : unstage
 
 learn how stage work
 git check changes.
