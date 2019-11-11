@@ -10,3 +10,4 @@ git reset --hard HEAD^ : rollback to the last ver
 git reflog : show every command
 
 learn how stage work
+git check changes.
