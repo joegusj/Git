@@ -9,3 +9,4 @@ git log (--pretty=oneline) : check commit history
 git reset --hard HEAD^ : rollback to the last ver
 git reflog : show every command
 
+learn how stage work
