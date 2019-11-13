@@ -10,6 +10,6 @@ git reset --hard HEAD^ : rollback to the last ver
 git reflog : show every command
 git restore <file> : discard changes
 git restore --staged <file> : unstage
-
-learn how stage work
-git check changes.
+git remote add origin https://github.com/joegusj/Git.git : connect to Github repository
+git push -u origin master : push local repo to Github at the first time
+git push origin master : push lastest modification to remote repo
