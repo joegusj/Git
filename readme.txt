@@ -14,5 +14,6 @@ git remote add origin https://github.com/joegusj/Git.git : connect to Github rep
 git push -u origin master : push local repo to Github at the first time
 git push origin master : push lastest modification to remote repo
 git clone 
-git checkout -b <branchname> : equal to git branch <branchname> then git checkout <branchname>
+git checkout -b <branchname> | git switch -c <branchname>: create and switch to <branchname>
 git merge <branchname> : merge <branchname> to current branch
+git branch -d <branchname> : delete branch
