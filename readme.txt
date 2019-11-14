@@ -14,3 +14,5 @@ git remote add origin https://github.com/joegusj/Git.git : connect to Github rep
 git push -u origin master : push local repo to Github at the first time
 git push origin master : push lastest modification to remote repo
 git clone 
+
+test git branch
