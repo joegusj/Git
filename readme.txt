@@ -18,3 +18,4 @@ git checkout -b <branchname> | git switch -c <branchname>: create and switch to 
 git merge <branchname> : merge <branchname> to current branch
 git branch -d <branchname> : delete branch
 branch conflict-check
+branch conflict check
